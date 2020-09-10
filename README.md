@@ -9,4 +9,4 @@ Antarctic heat flow model
 
 ---
 
-Code and data related to heat flow model Aq1 will be shared here, as soon as paper is accepted for publication. 
+Code to generate heat flow model Aq1 will also be shared here.
