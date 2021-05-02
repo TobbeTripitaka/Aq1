@@ -5,4 +5,5 @@ The code reproduces the resuls published in [G-cubed](https://agupubs.onlinelibr
 
 
 ---
-Note that the previous version of agrid is used for this study. Please get in touch if you have dependency issues to reproduce the results. 
+
+The provided Jupyter notebook reproduces the model and and figures in the paper, including supplimentary material. Note that the previous version of agrid is used for this study. Please get in touch if you have dependency issues to reproduce the results. 
